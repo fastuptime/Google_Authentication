@@ -1,0 +1,42 @@
+{
+  provider: 'google',
+  sub: '106274031118275039987',
+  id: '106274031118275039987',
+  displayName: 'Fast Uptime',
+  name: { givenName: 'Fast', familyName: 'Uptime' },
+  given_name: 'Fast',
+  family_name: 'Uptime',
+  email_verified: true,
+  verified: true,
+  language: 'tr',
+  locale: undefined,
+  email: 'fastuptime@gmail.com',
+  emails: [ { value: 'fastuptime@gmail.com', type: 'account' } ],
+  photos: [
+    {
+      value: 'https://lh3.googleusercontent.com/a/AAcHTtc8A6atL67dCwUgqkDfw-uBLLSksvOMRpDKM1z9xaipbw=s96-c',
+      type: 'default'
+    }
+  ],
+  picture: 'https://lh3.googleusercontent.com/a/AAcHTtc8A6atL67dCwUgqkDfw-uBLLSksvOMRpDKM1z9xaipbw=s96-c',
+  _raw: '{\n' +
+    '  "sub": "106274031118275039987",\n' +
+    '  "name": "Fast Uptime",\n' +
+    '  "given_name": "Fast",\n' +
+    '  "family_name": "Uptime",\n' +
+    '  "picture": "https://lh3.googleusercontent.com/a/AAcHTtc8A6atL67dCwUgqkDfw-uBLLSksvOMRpDKM1z9xaipbw\\u003ds96-c",\n' +
+    '  "email": "fastuptime@gmail.com",\n' +
+    '  "email_verified": true,\n' +
+    '  "locale": "tr"\n' +
+    '}',
+  _json: {
+    sub: '106274031118275039987',
+    name: 'Fast Uptime',
+    given_name: 'Fast',
+    family_name: 'Uptime',
+    picture: 'https://lh3.googleusercontent.com/a/AAcHTtc8A6atL67dCwUgqkDfw-uBLLSksvOMRpDKM1z9xaipbw=s96-c',
+    email: 'fastuptime@gmail.com',
+    email_verified: true,
+    locale: 'tr'
+  }
+}
